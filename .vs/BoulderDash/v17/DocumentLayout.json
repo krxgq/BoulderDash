@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bodnarchuk Bohdan\\source\\repos\\BoulderDash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D97C2BF-B0ED-44CB-97C7-418E288B84BD}|BoulderDash\\BoulderDash.csproj|c:\\users\\bodnarchuk bohdan\\source\\repos\\boulderdash\\boulderdash\\boulders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D97C2BF-B0ED-44CB-97C7-418E288B84BD}|BoulderDash\\BoulderDash.csproj|solutionrelative:boulderdash\\boulders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D97C2BF-B0ED-44CB-97C7-418E288B84BD}|BoulderDash\\BoulderDash.csproj|c:\\users\\bodnarchuk bohdan\\source\\repos\\boulderdash\\boulderdash\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D97C2BF-B0ED-44CB-97C7-418E288B84BD}|BoulderDash\\BoulderDash.csproj|solutionrelative:boulderdash\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D97C2BF-B0ED-44CB-97C7-418E288B84BD}|BoulderDash\\BoulderDash.csproj|c:\\users\\bodnarchuk bohdan\\source\\repos\\boulderdash\\boulderdash\\gems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D97C2BF-B0ED-44CB-97C7-418E288B84BD}|BoulderDash\\BoulderDash.csproj|solutionrelative:boulderdash\\gems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D97C2BF-B0ED-44CB-97C7-418E288B84BD}|BoulderDash\\BoulderDash.csproj|c:\\users\\bodnarchuk bohdan\\source\\repos\\boulderdash\\boulderdash\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D97C2BF-B0ED-44CB-97C7-418E288B84BD}|BoulderDash\\BoulderDash.csproj|solutionrelative:boulderdash\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D97C2BF-B0ED-44CB-97C7-418E288B84BD}|BoulderDash\\BoulderDash.csproj|c:\\users\\bodnarchuk bohdan\\source\\repos\\boulderdash\\boulderdash\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D97C2BF-B0ED-44CB-97C7-418E288B84BD}|BoulderDash\\BoulderDash.csproj|solutionrelative:boulderdash\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D97C2BF-B0ED-44CB-97C7-418E288B84BD}|BoulderDash\\BoulderDash.csproj|c:\\users\\bodnarchuk bohdan\\source\\repos\\boulderdash\\boulderdash\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D97C2BF-B0ED-44CB-97C7-418E288B84BD}|BoulderDash\\BoulderDash.csproj|solutionrelative:boulderdash\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Bodnarchuk Bohdan\\source\\repos\\BoulderDash\\BoulderDash\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BoulderDash\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Bodnarchuk Bohdan\\source\\repos\\BoulderDash\\BoulderDash\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BoulderDash\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAAKIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:25:48.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Bodnarchuk Bohdan\\source\\repos\\BoulderDash\\BoulderDash\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BoulderDash\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Bodnarchuk Bohdan\\source\\repos\\BoulderDash\\BoulderDash\\MainWindow.xaml",
+              "RelativeToolTip": "BoulderDash\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T15:21:01.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Bodnarchuk Bohdan\\source\\repos\\BoulderDash\\BoulderDash\\Player.cs",
+              "RelativeDocumentMoniker": "BoulderDash\\Player.cs",
+              "ToolTip": "C:\\Users\\Bodnarchuk Bohdan\\source\\repos\\BoulderDash\\BoulderDash\\Player.cs",
+              "RelativeToolTip": "BoulderDash\\Player.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T14:27:07.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Boulders.cs",
+              "DocumentMoniker": "C:\\Users\\Bodnarchuk Bohdan\\source\\repos\\BoulderDash\\BoulderDash\\Boulders.cs",
+              "RelativeDocumentMoniker": "BoulderDash\\Boulders.cs",
+              "ToolTip": "C:\\Users\\Bodnarchuk Bohdan\\source\\repos\\BoulderDash\\BoulderDash\\Boulders.cs",
+              "RelativeToolTip": "BoulderDash\\Boulders.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:48:11.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gems.cs",
+              "DocumentMoniker": "C:\\Users\\Bodnarchuk Bohdan\\source\\repos\\BoulderDash\\BoulderDash\\Gems.cs",
+              "RelativeDocumentMoniker": "BoulderDash\\Gems.cs",
+              "ToolTip": "C:\\Users\\Bodnarchuk Bohdan\\source\\repos\\BoulderDash\\BoulderDash\\Gems.cs",
+              "RelativeToolTip": "BoulderDash\\Gems.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:50:44.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Bodnarchuk Bohdan\\source\\repos\\BoulderDash\\BoulderDash\\Game.cs",
+              "RelativeDocumentMoniker": "BoulderDash\\Game.cs",
+              "ToolTip": "C:\\Users\\Bodnarchuk Bohdan\\source\\repos\\BoulderDash\\BoulderDash\\Game.cs",
+              "RelativeToolTip": "BoulderDash\\Game.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAAH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:08:17.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
