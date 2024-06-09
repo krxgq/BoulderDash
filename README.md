@@ -33,9 +33,9 @@
 - PlayerCollision(int x, int y): Handles the game logic when a player collects a gem.
 
 # Game class:
-Game(MainWindow mainWindow): Constructor method for the Game class. Initializes the game objects and lists.
-InitializeBouldersAndGems(): Initializes lists to track boulder and gem positions.
-Run(System.Windows.Input.Key key): Runs the game loop based on user input.
-StartContinuousFallChecks(): Starts continuous fall checks for boulders and gems.
-FallCheckForAllBoulders(): Checks for falling boulders and updates their positions.
-FallCheckForAllGems(): Checks for falling gems and updates their positions.
+- Game(MainWindow mainWindow): Constructor method for the Game class. Initializes the game objects and lists.
+- InitializeBouldersAndGems(): Initializes lists to track boulder and gem positions.
+- Run(System.Windows.Input.Key key): Runs the game loop based on user input.
+- StartContinuousFallChecks(): Starts continuous fall checks for boulders and gems.
+- FallCheckForAllBoulders(): Checks for falling boulders and updates their positions.
+- FallCheckForAllGems(): Checks for falling gems and updates their positions.
