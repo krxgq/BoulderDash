@@ -1,5 +1,6 @@
 # Boulder Dash WPF game created in C#.
-
+<details>
+<summary>Documentation for teacher</summary>
 # MainWindow class:
 - MainWindow(): Constructor method for the MainWindow class. Initializes the main window of the game, creates the game grid, and loads the level.
 - Window_KeyDown(object sender, KeyEventArgs e): Event handler for key presses.
@@ -39,3 +40,4 @@
 - StartContinuousFallChecks(): Starts continuous fall checks for boulders and gems.
 - FallCheckForAllBoulders(): Checks for falling boulders and updates their positions.
 - FallCheckForAllGems(): Checks for falling gems and updates their positions.
+</details>
